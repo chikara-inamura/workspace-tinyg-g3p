@@ -169,7 +169,7 @@ cpdefine("inline:com-chilipeppr-workspace-tinyg", ["chilipeppr_ready"], function
             var that = this;
             chilipeppr.load(
                 "#com-chilipeppr-widget-console-instance",
-                "http://raw.githubusercontent.com/chilipeppr/widget-console/master/auto-generated-widget.html",
+                "http://raw.githubusercontent.com/compugician/widget-console-G3P_V2/master/auto-generated-widget.html",
                 function() {
                     // Callback after widget loaded into #com-chilipeppr-widget-spconsole-instance
                     cprequire(
